@@ -1,0 +1,1 @@
+Nótese que en la iteración 22; la cual corresponde a 1260 segundos, la nave cruza el centro de la tierra.
